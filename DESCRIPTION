@@ -1,0 +1,19 @@
+Package: aseQC
+Type: Package
+Title: Allele Specific Expression Quality Control
+Version: 0.2.0
+Author: Kaushik Ganapathy [aut, cre],
+  Eric Song [aut, cre],
+  Pejman Mohammadi [aut, cre]
+Maintainer: Kaushik Ganapathy <kganapathy@scripps.edu>
+Description: Allele Specific Expression Quality Control (ASEQC) is a package to 
+    estimate the quality of ASE data by fitting a modified binomial logit normal
+    distribution to ASE data.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Collate: 'preprocess.R' 'blnmix.R' 'QC.R'
+Depends: R.utils, bln, data.table, doParallel, dplyr, foreach, pracma,
+        robustbase, stringr,
+NeedsCompilation: no
+Packaged: 2025-01-04 02:52:43 UTC; kaushikramganapathy
