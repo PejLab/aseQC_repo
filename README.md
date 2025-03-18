@@ -26,4 +26,6 @@ The format is outlined below:
 
 Both the index (unnamed) column and name column are **essential** for performing ASEQC fits.
 
+### Output Files
 
+The output file is an R dataframe with several columns. The `std` columns indicates the ASEQC score, and the `cutoff` indicates the cutoff score above which samples are considered to fail the test. 
