@@ -1,4 +1,5 @@
 # aseQC
+[![DOI](https://zenodo.org/badge/966401112.svg)](https://doi.org/10.5281/zenodo.15215408)
 
 **A**llele **S**pecific **E**xpression **Q**uality **C**ontrol.
 
