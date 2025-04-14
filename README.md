@@ -2,7 +2,7 @@
 
 **A**llele **S**pecific **E**xpression **Q**uality **C**ontrol.
 
-This package has been authored by [Kaushik Ganapathy](kganapathy@scripps.edu) and [Eric Song](ejsong@ucsd.edu).
+This package has been authored by [Kaushik Ganapathy](mailto:kganapathy@scripps.edu) and [Eric Song](mailto:ejsong@ucsd.edu).
 
 ### Input Files
 
